@@ -36,20 +36,15 @@ proc print_avilable {available_targets} {
     }
 }
 
-# Call the procedure to get parsed targets
-connect
-set available_targets [list_targets]
+proc show_available_targets {} {
+    # connect to the target
+    connect
+    
+    # list the available targets 
+    set available_targets [list_targets]
 
-# Print targets
-print_avilable $available_targets
+    # Print targets
+    print_avilable $available_targets
+}
 
-#list the available targets
-#make this a procedure
-
-#print the targets for user
-
-
-#ask user to choose a target
-#if user makes a mistake, ask again
-#make this a procedure
 
