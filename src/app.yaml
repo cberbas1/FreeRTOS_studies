@@ -1,0 +1,4 @@
+domain_path: /home/berk/Desktop/workspace_vs/freeRTOS/export/freeRTOS/sw/freertos_psu_cortexr5_0
+app_src_dir: /tools/Xilinx/Vitis/2024.2/data/embeddedsw/lib/sw_apps/freertos_hello_world
+template: freertos_hello_world
+lang: c
