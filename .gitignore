@@ -6,6 +6,10 @@
 /src/.cache
 /src/.compile_commands
 /export
+/freertos_hello_world
+/logs
+/zcu106
+/kr260
 
 # Ignore object files and dependent files
 .o
