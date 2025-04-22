@@ -45,8 +45,6 @@ proc show_available_targets {} {
 
     # Print targets
     print_avilable $available_targets
-
-    puts "\nEND1"
 }
 
 
