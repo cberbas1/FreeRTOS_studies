@@ -55,6 +55,10 @@ static void led_task(void* params)
 
 int main(void)
 {
+  while (1)
+  {
+    xil_printf("LED ON \r\n");
+  }
   // Create a task
   xTaskCreate(led_task, "LED Task", 256, NULL, tskIDLE_PRIORITY + 1, NULL);
 
