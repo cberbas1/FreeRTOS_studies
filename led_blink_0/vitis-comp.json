@@ -1,5 +1,5 @@
 {
-  "name": "led_blink",
+  "name": "led_blink_0",
   "type": "HOST",
   "platform": "kr260",
   "domain": "freertos_psu_cortexr5_0",
