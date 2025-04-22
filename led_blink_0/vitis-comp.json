@@ -1,0 +1,15 @@
+{
+  "name": "led_blink_0",
+  "type": "HOST",
+  "platform": "kr260",
+  "domain": "freertos_psu_cortexr5_0",
+  "cpuInstance": "psu_cortexr5_0",
+  "cpuType": "cortex-r5",
+  "os": "freertos",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "freertos_psu_cortexr5_0",
+  "applicationFlow": "EMBEDDED_ACCEL"
+}

@@ -1,16 +1,6 @@
 # Ignore build output directory
 /build
-/build/*
-/_ide
-/_ide/*
-/src/.cache
-/src/.compile_commands
 /export
-/freertos_hello_world
-/logs
-/zcu106
-/kr260
-/.cache
 
 # Ignore object files and dependent files
 .o

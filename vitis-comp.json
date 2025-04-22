@@ -1,0 +1,16 @@
+{
+  "name": "freertos_hello_world2",
+  "type": "HOST",
+  "platform": "freeRTOS",
+  "domain": "freertos_psu_cortexr5_0",
+  "cpuInstance": "psu_cortexr5_0",
+  "cpuType": "cortex-r5",
+  "os": "freertos",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "freertos_psu_cortexr5_0",
+  "applicationFlow": "EMBEDDED_ACCEL",
+  "template": "freertos_hello_world"
+}
