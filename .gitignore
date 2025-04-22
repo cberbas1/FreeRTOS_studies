@@ -10,6 +10,7 @@
 /logs
 /zcu106
 /kr260
+/.cache
 
 # Ignore object files and dependent files
 .o
