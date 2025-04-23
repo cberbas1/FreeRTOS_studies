@@ -6,7 +6,7 @@
 /src/.cache
 /src/.compile_commands
 /export
-/freertos_hello_world
+/hello_world
 /logs
 /zcu106
 /kr260
